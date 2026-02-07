@@ -1,8 +1,5 @@
 # sales-analysis
 
-Absolutely — adding icons will make your README look much more modern and eye-catching on GitHub 😎
-Here’s an upgraded version with **cool emojis/icons** you can use directly:
-
 ---
 
 # 📊 Sales Analysis Dashboard (Power BI)
