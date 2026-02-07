@@ -9,7 +9,7 @@
 The **Sales Analysis Dashboard** is an interactive **Business Intelligence (BI)** project built using **Power BI** to analyze sales performance, customer behavior, and profitability across different regions, products, and demographics.
 It helps stakeholders make **data-driven decisions** through visually rich and interactive insights.
 
-### dashboards 
+### Dashboards 
 
 ![bi-1](https://github.com/user-attachments/assets/383299d4-0495-4978-bb43-2ae7dab43078)
 ![bi-2](https://github.com/user-attachments/assets/1b9a891a-1db7-4d7e-a8bf-ac0aeb76186b)
