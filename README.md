@@ -111,15 +111,6 @@ This dashboard is useful for:
 
 ---
 
-## ▶️ How to Use
-
-1. 📥 Download the `.pbix` file
-2. 🖥️ Open in **Power BI Desktop**
-3. 🔄 Refresh data
-4. 🎛️ Use slicers to explore insights
-
----
-
 ## 👨‍💻 Author
 
 ** Zahid Hasan**
